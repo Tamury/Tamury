@@ -1,2 +1,0 @@
-# Tamury
-Hullala!
